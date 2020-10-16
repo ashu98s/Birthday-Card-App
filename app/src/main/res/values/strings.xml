@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="text1">Happy Birthday Ben!</string>
+    <string name="text2">From, Lyla!</string>
+    <string name="img1">birthday</string>
+    <string name="img">TODO</string>
+</resources>
